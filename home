@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> Rapscene </title>
+		<meta name="author" content="Tomas & Louis" >
+		<meta name="description" content="Nederlandse Rappers" >
+		<meta name="keywords" content="Rappers, Rapscene" >
+		<link rel="stylesheet" href="css.css"    />
+	</head>	
+	<body>
+		<div id="container">
+			 
+			
+			<div id="header">
+				<center><a href="rapscene.html"> Rapscene</a> </center>
+			</div>
+			
+			<div id="menu">
+				<table>
+				<!-- Menuitem active zorgt ervoor dat je ziet dat je op home bent omdat die knop ingedrukt lijkt door de "ingedrukte kleur"
+				-->
+					<td class="menuitem active"><a href="rapscene.html"> Home</a></td>
+					<td class="menuitem"><a href="josylvio.html">Josylvio</a></td>
+					<td class="menuitem"><a href="sevnalias.html">Sevn Alias</a></td>
+					<td class="menuitem"><a href="boef.html">Boef</a></td>
+					<td class="menuitem"><a href="frenna.html">Frenna</a></td>
+				</table>
+			</div>
+			
+			<div id="breadcrumbs">
+				
+				<a href="titel.html">Home</a> 
+				
+			</div>
+			
+			<div id="content">
+				
+				<center>
+					<h1> Inleiding </h1>
+				</center>
+				
+				<p>
+				
+				We wouden een site maken over alle Nederlandse Rappers. Dit is wel heel amibiteus, dus is deze site alleen over de rappers Boef, Frenna, Sevn Alias en Josylvio. Zij behoren met Lil Kleine tot Nederland grootste rappers. We gaan het hebben over hun verleden, hoe ze zo groot zijn geworden en actuele feiten.
+				
+				<center>
+					<img src="boef-grill.jpg" alt="rapper Boef" border= "10">
+				</center>
+				
+				</p>
+				<center>
+				<b> Wie is jouw favoriete Nederlandse rapper? </b>
+					<form>
+						<input type="text" placeholder=" " required>
+						<button type="submit">Submit</button>
+					</form>
+				<center>
+			</div>	
+			
+			<div id="footer">
+				<center> &copy; 2016. Tomas en Louis.  </center>
+			</div>	
+			
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
