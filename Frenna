@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> Rapscene </title>
+		<meta name="author" content="Tomas & Louis" >
+		<meta name="description" content="Nederlandse Rappers" >
+		<meta name="keywords" content="Rappers, Rapscene" >
+		<link rel="stylesheet" href="css.css"    />
+	</head>	
+	<body>
+		<div id="container">
+			 
+			
+			<div id="header">
+				<center><a href="rapscene.html"> Frenna</a> </center>
+			</div>
+			
+			<div id="menu">
+				<table>
+					<td class="menuitem"><a href="rapscene.html"> Home</a></td>
+					<td class="menuitem"><a href="josylvio.html">Josylvio</a></td>
+					<td class="menuitem"><a href="sevnalias.html">Sevn Alias</a></td>
+					<td class="menuitem"><a href="boef.html">Boef</a></td>
+					<td class="menuitem active"><a href="frenna.html">Frenna</a></td>
+				</table>
+			</div>
+			
+			<div id="breadcrumbs">
+				<!-- Breadcrumbs zorgen er voor dat je de weg terug vind die je in de site hebt gelopen
+				-->
+				<a href="rapscene.html">Home</a> > <a href="frenna.html"> Frenna </a>
+				
+			</div>
+			
+			<div id="content">
+			
+			<p>
+			Frenna is een van de grootste Nederlandse rappers. Frenna zijn echte naam is Fracis Junior Edusei. Samen met de 3 andere vrienden Jandro, KM en priceless vormt hij de rap groep SFB.
+			SFB heeft vele nummer 1 hits gescored waaronder nu sta je hier met Broederliefde en Ronnie flex. Ook hebben hun album's reset the levels I, reset the levels II en reset the levels III
+			het heel goed gedaan in de nederlandse hiphop scene. Al met al heeft de nederlandse hip-hop groep SFB meerdere goeie hitjes gemaakt.
+			</p>
+			<center>
+			<img src="https://www.top40.nl/media/cache/info_artist/uploads/subtitle/35186/original.jpg" border="10px" align="top" height="295" width="295">
+
+			
+			<iframe width="560" height="315" 
+			src="https://www.youtube.com/embed/_WxbjsarB1c" frameborder="0" 
+			allow="autoplay; encrypted-media" align="bottom" allowfullscreen>
+			</iframe>
+			</center>
+				
+			</div>	
+			
+			<div id="footer">
+				<center> &copy; 2016. Tomas en Louis. Alle rechten voorbehouden.  </center>
+			</div>	
+			
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
