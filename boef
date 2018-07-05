@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> Rapscene </title>
+		<meta name="author" content="Tomas & Louis" >
+		<meta name="description" content="Nederlandse Rappers" >
+		<meta name="keywords" content="Rappers, Rapscene" >
+		<link rel="stylesheet" href="css.css"    />
+	</head>	
+	<body>
+		<div id="container">
+			<!--    
+			De div tags zorgen voor een goed overzicht tussen de verschillende delen op deze pagina.
+			Bij "header" zorgen we voor een duidelijke titel (over wie het gaan)
+			-->
+				
+			<div id="header">
+			<center><a href="rapscene.html"> Boef</a> </center>
+			</div>
+			
+			<div id="menu">
+				<table>
+					<td class="menuitem"><a href="rapscene.html"> Home</a></td>
+					<td class="menuitem"><a href="josylvio.html">Josylvio</a></td>
+					<td class="menuitem"><a href="sevnalias.html">Sevn Alias</a></td>
+					<td class="menuitem active"><a href="boef.html">Boef</a></td>
+					<td class="menuitem"><a href="frenna.html">Frenna</a></td>
+				</table>
+			</div>
+			
+			<div id="breadcrumbs">
+				
+				<a href="rapscene.html">Home</a> > <a href="boef.html"> Boef </a>
+				
+			</div>
+			
+			<div id="content">
+				<p>
+					Boef heeft zich tot een van de grootste rappers van Nederland gevormd. Hij heeft het afgelopen jaar veel commotie rond zich gehad. Voor boef begon het allemaal met een zonamo underground sessie die is ontploft.
+					Boef, oftewel Soufiane Boussaaida, tekende toen bij het label Zonamo Underground. Bij het label Zonamo heeft boef een tijdje gezetten en is hij bekend geworden door verschillende nummers. 
+					Opgeven moment zijn boef en zonamo uit elkaar gegaan en is boef op zichzelf verder gegaan. Onder management van SPEC(ali b) is boef veel in de media geweest zowel positief als negatief.
+					Zijn eerste nummer 1 hit was habiba. Habiba is een lied dei complleet is ontploft en ondertussen heeft de videoclip meer dan 50 miljoen views op youtube. 
+					Habiba was onderdeel van zijn album slaaptekort, slaaptekort is platinum gegaan en heeft vele wegen geopend voor boef. In2018 heeft boef ondertussen 2 nieuwe nummer 1 hits gescored met ANTWOORD en momenteel staat zijn nieuwste nummer Drama ook op 1.
+				</p>
+				
+			<center>
+				
+				
+				<img src="https://in03.hostcontrol.com/resources/7e1786b4729949/472fd17ad7.JPEG" height="315" width="315">
+				
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/vgrDlF5fJgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			</center>
+			
+			</div>	
+			
+			<div id="footer">
+				<center> &copy; 2016. Tomas en Louis. Alle rechten voorbehouden.  </center>
+			</div>	
+			
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
