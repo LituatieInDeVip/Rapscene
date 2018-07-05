@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> Rapscene </title>
+		<meta name="author" content="Tomas & Louis" >
+		<meta name="description" content="Nederlandse Rappers" >
+		<meta name="keywords" content="Rappers, Rapscene" >
+		<link rel="stylesheet" href="css.css"    />
+	</head>	
+	<body>
+		<div id="container">
+			 
+			
+			<div id="header">
+				<center><a href="rapscene.html"> Rapscene</a> </center>
+			</div>
+			
+			<div id="menu">
+				<table>
+					<td class="menuitem"><a href="rapscene.html"> Home</a></td>
+					<td class="menuitem active"><a href="josylvio.html">Josylvio</a></td>
+					<td class="menuitem"><a href="sevnalias.html">Sevn Alias</a></td>
+					<td class="menuitem"><a href="boef.html">Boef</a></td>
+					<td class="menuitem"><a href="frenna.html">Frenna</a></td>
+				</table>
+			</div>
+			
+			<div id="breadcrumbs">
+				
+				<a href="titel.html">Home</a> > <a href="josylvio.html"> Josylvio </a>
+				
+			</div>
+			
+			<div id="content">
+				<center>
+					<h1> Josylvio </h1>
+				</center>
+				
+				<p>
+					Josylvio, pseudoniem voor Joost Theo Sylvio Yussef Abdelgalil Dowib, werd geboren in Naarden als de zoon van een Nederlandse moeder en een Egyptische vader. In 2015 deed hij een Zonamo-sessie onder de naam Jaybay. In 2015 bracht hij de single Le7nesh uit (met <a href="sevnalias.html"> Sevn Alias </a>). Het was de aanleiding voor het album Ma3seb, dat hij samen met hiphopproducent Esko uitbracht. Het album bereikte nummer 5 van de Album Top 100 en leverde een nominatie voor een Edison op. Hij bracht een aantal singles uit die de Single Top 100 bereikten, waaronder in samenwerking met andere rappers, zoals Ali B, Hef, Adje, Jairzinho, Kevin, BKO en D-Double. In 2017 maakte Josylvio deel uit van het album All Eyez on Us, een album met Latifah, Kempi, <a href="sevnalias.html"> Sevn Alias </a>, Vic9 en Rocks. Geïnspireerd door de film All Eyez on Me (een documentaire over Tupac, een jeugdidool van Josylvio) gingen deze rappers aan de slag om een album te maken als eerbetoon voor Tupac. De titel All Eyez on Us, uitgekomen in 2017, is geïnspireerd op de naam All Eyez on Me, een album van Tupac.
+					
+				</p>
+				
+				
+				
+				<center>
+					<img src="7zwx2jqavpzi_wd640.jpeg " width="560" height="315">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/xdXxOCSwuyo" frameborder="10" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					
+				</center>
+					
+				
+			</div>	
+			
+			<div id="footer">
+				<center> &copy; 2016. Tomas en Louis.   </center>
+			</div>	
+			
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
