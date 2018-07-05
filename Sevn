@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> Rapscene </title>
+		<meta name="author" content="Tomas & Louis" >
+		<meta name="description" content="Nederlandse Rappers" >
+		<meta name="keywords" content="Rappers, Rapscene" >
+		<link rel="stylesheet" href="css.css"    />
+	</head>	
+	<body>
+		<div id="container">
+			 
+			
+			<div id="header">
+				<center><a href="rapscene.html"> Rapscene</a> </center>
+			</div>
+			
+			<div id="menu">
+				<table>
+					<td class="menuitem"><a href="rapscene.html"> Home</a></td>
+					<td class="menuitem"><a href="josylvio.html">Josylvio</a></td>
+					<td class="menuitem active"><a href="sevnalias.html">Sevn Alias</a></td>
+					<td class="menuitem"><a href="boef.html">Boef</a></td>
+					<td class="menuitem"><a href="frenna.html">Frenna</a></td>
+				</table>
+			</div>
+			
+			<div id="breadcrumbs">
+				
+				<a href="titel.html">Home</a> ><a href="sevnalias.html">  Sevn Alias </a>
+				
+			</div>
+			
+			<div id="content">
+				<center>
+					<h1> Sevn Alias </h1>
+				</center>
+				
+				<p>
+					Sevn Alias (Sevaio Mook) werd geboren in Amsterdam op 4 november 1996 als de zoon van een Surinaamse vader en een Surinaams-Antilliaanse moeder. Hij groeide op in Amsterdam-West tussen Marokkaanse jongeren. Dit is vandaag de dag nog terug te horen in zijn muziek; hij gebruikt Marokkaanse woorden in zijn teksten. Zo is de titel van zijn single "Kifesh", die in 2016 de gouden status kreeg, het Arabische woord voor 'hoezo'. Later verhuisde hij na een korte tussenstop in Zeewolde naar Almere.
+
+Het label Rotterdam Airlines ontdekte de jonge rapper en bood hem een contract aan. In 2014 bracht hij zijn eerste video uit voor de track "Radicaal", een voorproefje voor zijn mixtape uit begin 2015 Twenty Four Sevn. Zijn grote doorbraak kwam een paar maanden later. Hij deed in juli 2015 een zomersessie bij 101Barz.
+		
+				</p>
+				
+				<b> Album Discografie </b>
+				<table class="tabel">
+					<tr>
+						<th>Jaar</th>
+						<th>Album</th>
+						<th>beste notering top 100</th>
+					</tr>
+					<tr>
+						<td>2016</td>
+						<td>Gate 16</td>
+						<td>2</td>
+					</tr>
+					<tr>
+						<td>2016</td>
+						<td>Trap Grammy</td>
+						<td>6</td>
+					</tr>
+					<tr>
+						<td>2017</td>
+						<td>Picasso</td>
+						<td>4</td>
+					</tr>
+					
+				</table>
+				
+				<center>
+				
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/_ZSzd9Zr29Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				<img src=" Sevn-Alias-9.jpg.jpg" width="560" height="315" >
+				
+				</center>
+			</div>	
+			
+			<div id="footer">
+				<center> &copy; 2016. Tomas en Louis.   </center>
+			</div>	
+			
+		</div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
